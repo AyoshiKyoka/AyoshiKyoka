@@ -3,7 +3,7 @@
 Hi 👋 My name is Koushik Das Aikyo. I am a student and who loves beginning a developer.
 
 ### Connect with me:
-<img align="left" alt="https://discord.gg/daXC6v5fXQ" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/Discord.svg" />
+<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/discord.svg" />
 <br>
 
 | Now Playing                                                                                                                    |
