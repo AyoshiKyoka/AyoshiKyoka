@@ -1,4 +1,4 @@
-<div align = "left">
+<div align = "center">
   
 ### About Me:
 Hi 👋 My name is Koushik Das Aikyo. I am a student and who loves beginning a developer.
@@ -14,7 +14,7 @@ Hi 👋 My name is Koushik Das Aikyo. I am a student and who loves beginning a d
 <br>
 
 ### My Stats:
-  <p align="left">
+  <p align="center">
     <a href="https://github.com/KoushikDasAikyo/">
         <img src="https://github-readme-stats.vercel.app/api?username=KoushikDasAikyo&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&bg_color=0D1117&title_color=00F3FF&text_color=00F3FF&icon_color=00F3FF&hide_border=true/" />
     </a>
