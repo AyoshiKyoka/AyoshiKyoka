@@ -1,20 +1,17 @@
-<div align = "center">
+<div align = "left">
   
 ### About Me:
 Hi 👋 My name is Koushik Das Aikyo. I am a student and who loves beginning a developer.
 
 ### Connect with me:
+<a href="https://discord.gg/daXC6v5fXQ" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/discord.svg" alt="Discord" height="30" width="40" /></a>
 <br>
-
-| Now Playing                                                                                                                    |
-| ------------------------------------------------------------------------------------------------------------------------------ |
-|  |
 
 ### Languages and Tools:
 <br>
 
 ### My Stats:
-  <p align="center">
+  <p align="left">
     <a href="https://github.com/KoushikDasAikyo/">
         <img src="https://github-readme-stats.vercel.app/api?username=KoushikDasAikyo&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&bg_color=0D1117&title_color=00F3FF&text_color=00F3FF&icon_color=00F3FF&hide_border=true/" />
     </a>
@@ -25,7 +22,7 @@ Hi 👋 My name is Koushik Das Aikyo. I am a student and who loves beginning a d
         <img src="https://github-readme-streak-stats.herokuapp.com?user=KoushikDasAikyo&hide_border=true&background=0D1117&currStreakLabel=00F3FF&sideLabels=00F3FF&currStreakNum=00F3FF&dates=00F3FF&sideNums=00F3FF&fire=00F3FF&ring=00F3FF&stroke=00F3FF)](https://git.io/streak-stats" />
     </a>
 </p>
-
+  
 ![](https://komarev.com/ghpvc/?username=KoushikDasAikyo&style=flat-square)
 ![status](https://dev.discordprofiles.me/badge/status/770887288464867338?style=flat-square)
 ![playing](https://dev.discordprofiles.me/badge/playing/770887288464867338?style=flat-square)
