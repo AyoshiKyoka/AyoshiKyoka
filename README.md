@@ -18,7 +18,9 @@ Hi 👋 My name is Koushik Das Aikyo. I am a student and who loves beginning a d
         <img src="https://github-readme-streak-stats.herokuapp.com?user=KoushikDasAikyo&hide_border=true&background=0D1117&currStreakLabel=00F3FF&sideLabels=00F3FF&currStreakNum=00F3FF&dates=00F3FF&sideNums=00F3FF&fire=00F3FF&ring=00F3FF&stroke=00F3FF)](https://git.io/streak-stats" />
     </a>
 </p>
-  
+
+[![Spotify](https://novatorem-koushikdasaikyo.vercel.app/api/spotify)](https://open.spotify.com/user/fbrehnlhws68zbnc3bo1tz8w3)
+
 ![](https://komarev.com/ghpvc/?username=KoushikDasAikyo&style=flat-square)
 ![status](https://dev.discordprofiles.me/badge/status/770887288464867338?style=flat-square)
 ![playing](https://dev.discordprofiles.me/badge/playing/770887288464867338?style=flat-square)
