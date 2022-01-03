@@ -1,7 +1,7 @@
 <div align = "left">
   
 ### About Me:
-Heyo 👋 My name is Koushik Das Aikyo. I am a student and who loves beginning a developer.
+Hi 👋 My name is Koushik Das Aikyo. I am a student and who loves beginning a developer.
 
 ### Languages and Tools:
 <br>
