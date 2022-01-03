@@ -3,10 +3,6 @@
 ### About Me:
 Hi 👋 My name is Koushik Das Aikyo. I am a student and who loves beginning a developer.
 
-### Connect with me:
-<a href="https://discord.gg/daXC6v5fXQ" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/discord.svg" alt="Discord" height="30" width="40" /></a>
-<br>
-
 ### Languages and Tools:
 <br>
 
