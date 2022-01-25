@@ -16,10 +16,7 @@ limitations under the License.
 <div align = "left">
 
 ## About Me:
-Hey 👋 My name is Koushik Das Aikyo. I am learning to HTML, CSS, Javascripet, Node.js
-
-## Language And Tools:
-&nbsp;
+Hey 👋 My name is Koushik Das Aikyo. I am learning to HTML, CSS, Javascripet.
 
 ## My Statistics:
 <p align="left">
