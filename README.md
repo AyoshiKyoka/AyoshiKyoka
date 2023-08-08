@@ -1,35 +1,22 @@
-<h1 align="center">
- <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00f3ff&lines=%22Hello+there!+%F0%9F%91%8B%F0%9F%8F%BB%22;%22I'm+Koushik+Das+Aikyo!%22;%22Welcome+to+my+profile!%22"/>
- </a>
-</h1>
-<div align="conter">
+<div align = "center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&duration=4000&color=3c3a52&center=true&width=435&repeat=false&lines=Heyo,+what's+up!+%F0%9F%91%8B%F0%9F%8F%BB;I+am+Unknown+Coderz!;Welcome+to+my+profile!" alt="Hello it's blacky" />
+ 
+<a href="https://github.com/KoushikDasAikyo"><img src="https://github-widgetbox.vercel.app/api/profile?username=KoushikDasAikyo&amp;theme=darkmode&amp;data=followers,repositories,stars,commits" alt="Unknown Coderz Profile WidgetBox"></a>
+ 
+<img src="https://github-widgetbox.vercel.app/api/skills?languages=html,css,js,ts,bash,linux,powershell&amp;theme=darkmode&amp;includeNames=true" alt="Unknown Coderz Skills WidgetBox">
+ 
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&amp;pause=1000&amp;duration=4000&amp;color=3c3a52&amp;center=true&amp;width=435&amp;repeat=false&amp;lines=Statistical+Status" alt="Statistical Status" />
 
-## About Me:
-Hey 👋 My name is Koushik Das Aikyo. I am learning to HTML, CSS, Javascripet.
+<a href="https://www.github.com/KoushikDasAikyo"><img src="https://komarev.com/ghpvc/?username=KoushikDasAikyo&amp;style=for-the-badge&amp;color=161c1c&amp;label=PROFILE+VIEWS" alt="Unknown Coderz github profile views" /></a>
+<a href="https://www.linux.org"><img src="https://img.shields.io/badge/OS-Linux-e06c75?style=for-the-badge&amp;logoColor=3c3a52&amp;logo=linux&amp;color=161c1c" /></a>
+<a href="https://archlinux.org"><img src="https://img.shields.io/badge/DISTRO-Arch-56b6c2?style=for-the-badge&amp;logo=arch-linux&amp;logoColor=3c3a52&amp;color=161c1c" /></a>
+<a href="https://dwm.suckless.org"><img src="https://img.shields.io/badge/WM-DWM-005577?style=for-the-badge&amp;logo=dwm&amp;color=161c1c&amp;logoColor=3c3a52" /></a>
+<a href="https://neovim.io"><img src="https://img.shields.io/badge/IDE-Neovim-98c379?style=for-the-badge&amp;logo=neovim&amp;color=161c1c&amp;logoColor=3c3a52" /></a>
 
-## 🔖 My Statistics:
-&nbsp;
-<p align="center">
-    <a href="https://github.com/KoushikDasAikyo/">
-        <img src="https://github-readme-stats.vercel.app/api?username=KoushikDasAikyo&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&bg_color=0D1117&title_color=00F3FF&text_color=00F3FF&icon_color=00F3FF&hide_border=true/"/>
-    </a>
-    <a href="https://github.com/KoushikDasAikyo/">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoushikDasAikyo&layout=compact&count_private=true&langs_count=8&card_width=445&bg_color=0D1117&title_color=00F3FF&text_color=00F3FF&icon_color=DB1CFF&hide_border=true/" />
-    </a>
-    <a href="https://github.com/KoushikDasAikyo/">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=KoushikDasAikyo&hide_border=true&background=0D1117&currStreakLabel=00F3FF&sideLabels=00F3FF&currStreakNum=00F3FF&dates=00F3FF&sideNums=00F3FF&fire=00F3FF&ring=00F3FF&stroke=00F3FF)](https://git.io/streak-stats" />
-    </a>
-    <a href="https://open.spotify.com/user/fbrehnlhws68zbnc3bo1tz8w3">
-        <img srv="https://novatorem-koushikdas14.vercel.app/api/spotify">
-    </a>
-</p>
-
-![](https://komarev.com/ghpvc/?username=KoushikDasAikyo&style=flat-square)
-![status](https://dev.discordprofiles.me/badge/status/770887288464867338?style=flat-square)
-![playing](https://dev.discordprofiles.me/badge/playing/770887288464867338?style=flat-square)
-![vscode](https://dev.discordprofiles.me/badge/vscode/770887288464867338?style=flat-square)
-![intellij](https://dev.discordprofiles.me/badge/intellij/770887288464867338?style=flat-square)
-[![spotify](https://dev.discordprofiles.me/badge/spotify/770887288464867338?style=flat-square)](https://dev.discordprofiles.me/openspotify/770887288464867338?style=flat-square)
-
+<div style="display:flex;">
+<img width="46%" src="https://github-readme-stats.vercel.app/api?username=KoushikDasAikyo&amp;show_icons=true&amp;theme=dark&amp;bg_color=161c1c&amp;hide_border=true&amp;icon_color=3c3a52&amp;title_color=3c3a52&amp;border_radius=16" alt="Unknown Coderz GitHub Stats">
+<span style="display:inline-block;width:2%"></span>
+<img width="49%" src="https://streak-stats.demolab.com/?user=KoushikDasAikyo&amp;theme=dark&amp;background=161c1c&amp;hide_border=true&amp;border_radius=16&amp;ring=3c3a52&amp;fire=3c3a52&amp;currStreakLabel=3c3a52" alt="Unknown Coderz GitHub Streak" />
+<img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoushikDasAikyo&amp;theme=dark&amp;layout=compact&amp;langs_count=10&amp;card_width=750&amp;count_private=true&amp;bg_color=161c1c&amp;title_color=3c3a52&amp;text_color=e4e6eb&amp;hide_border=true&amp;border_radius=16" alt="Unknown Coderz Github activity Graph" />
+</div>
 </div>
