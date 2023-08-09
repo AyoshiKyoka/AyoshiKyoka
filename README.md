@@ -1,4 +1,4 @@
-<div align = "center">
+<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&duration=4000&color=3c3a52&center=true&width=435&repeat=false&lines=Heyo,+what's+up!+%F0%9F%91%8B%F0%9F%8F%BB;I+am+Unknown+Coderz!;Welcome+to+my+profile!" alt="Hello it's blacky" />
  
 <a href="https://github.com/CodingWithCoderz"><img src="https://github-widgetbox.vercel.app/api/profile?username=CodingWithCoderz&amp;theme=darkmode&amp;data=followers,repositories,stars,commits" alt="Unknown Coderz Profile WidgetBox"></a>
