@@ -19,7 +19,7 @@
 <a href="https://www.github.com/CodingWithUnknown"><img width="48%" src="https://streak-stats.demolab.com/?user=CodingWithUnknown&amp;theme=dark&amp;background=161c1c&amp;hide_border=true&amp;border_radius=16&amp;ring=3c3a52&amp;fire=3c3a52&amp;currStreakLabel=3c3a52" alt="Unknown Coderz GitHub Streak" /></a>
 </div>
 
-<a href="https://www.github.com/CodingWithUnknown"><img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodingWithUnknown&amp;theme=dark&amp;layout=compact&amp;langs_count=10&amp;card_width=750&amp;count_private=true&amp;bg_color=161c1c&amp;title_color=3c3a52&amp;text_color=e4e6eb&amp;hide_border=true&amp;border_radius=16" alt="Unknown Coderz Github activity Graph" /></a>
+<a href="https://www.github.com/CodingWithUnknown"><img width="93.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodingWithUnknown&amp;theme=dark&amp;layout=compact&amp;langs_count=10&amp;card_width=750&amp;count_private=true&amp;bg_color=161c1c&amp;title_color=3c3a52&amp;text_color=e4e6eb&amp;hide_border=true&amp;border_radius=16" alt="Unknown Coderz Github activity Graph" /></a>
 
 <a href="https://www.github.com/CodingWithUnknown"><img src="https://readme-typing-svg.demolab.com?font=Poppins&amp;pause=1000&amp;duration=4000&amp;color=3c3a52&amp;center=true&amp;width=435&amp;repeat=false&amp;lines=Discord%20Profile%20Statistics" alt="Discord Profile Statistics" /></a>
 
