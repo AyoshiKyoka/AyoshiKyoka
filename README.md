@@ -7,7 +7,7 @@
 
 <a href="https://www.github.com/CodingWithUnknown"><img src="https://readme-typing-svg.demolab.com?font=Poppins&amp;pause=1000&amp;duration=4000&amp;color=3c3a52&amp;center=true&amp;width=435&amp;repeat=false&amp;lines=Discord%20Profile%20Statistics" alt="Discord Profile Statistics" /></a>
 
-<a href="https://discord.com/users/770887288464867338"><img width=75% src="https://lanyard.cnrad.dev/api/770887288464867338?showDisplayName=true&amp;hideTimestamp=false&amp;bg=141318&amp;animated=true&amp;borderRadius=15px&amp;theme=dark&amp;hideBadges=false&amp;hideStatus=false&amp;hideActivity=false&amp;hideProfile=false&amp;idleMessage=I%20don’t%20care%20what%20people%20think%20unless%20it’s%20about%20me." alt="Discord Profile Statistics Box" /></a>
+<a href="https://discord.com/users/770887288464867338"><img width=78% src="https://lanyard.cnrad.dev/api/770887288464867338?showDisplayName=true&amp;hideTimestamp=false&amp;bg=141318&amp;animated=true&amp;borderRadius=15px&amp;theme=dark&amp;hideBadges=false&amp;hideStatus=false&amp;hideActivity=false&amp;hideProfile=false&amp;idleMessage=I%20don’t%20care%20what%20people%20think%20unless%20it’s%20about%20me." alt="Discord Profile Statistics Box" /></a>
  
 <a href="https://www.github.com/CodingWithUnknown"><img src="https://readme-typing-svg.demolab.com?font=Poppins&amp;pause=1000&amp;duration=4000&amp;color=3c3a52&amp;center=true&amp;width=435&amp;repeat=false&amp;lines=Statistical%20Status" alt="Statistical Status" /></a>
 
