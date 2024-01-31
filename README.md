@@ -8,10 +8,10 @@
 <a href="https://www.github.com/CodingWithUnknown"><img src="https://readme-typing-svg.demolab.com?font=Poppins&amp;pause=1000&amp;duration=4000&amp;color=3c3a52&amp;center=true&amp;width=435&amp;repeat=false&amp;lines=Statistical%20Status" alt="Statistical Status" /></a>
 
 <a href="https://www.github.com/CodingWithUnknown"><img src="https://komarev.com/ghpvc/?username=CodingWithUnknown&amp;style=for-the-badge&amp;color=161c1c&amp;label=PROFILE+VIEWS" alt="Unknown Coderz github profile views" /></a>
-<a href="https://www.linux.org"><img src="https://img.shields.io/badge/OS-Linux-e06c75?style=for-the-badge&amp;logoColor=3c3a52&amp;logo=linux&amp;color=161c1c" /></a>
-<a href="https://archlinux.org"><img src="https://img.shields.io/badge/DISTRO-Arch-56b6c2?style=for-the-badge&amp;logo=arch-linux&amp;logoColor=3c3a52&amp;color=161c1c" /></a>
-<a href="https://dwm.suckless.org"><img src="https://img.shields.io/badge/WM-DWM-005577?style=for-the-badge&amp;logo=dwm&amp;color=161c1c&amp;logoColor=3c3a52" /></a>
-<a href="https://neovim.io"><img src="https://img.shields.io/badge/IDE-Neovim-98c379?style=for-the-badge&amp;logo=neovim&amp;color=161c1c&amp;logoColor=3c3a52" /></a>
+<a href="https://www.linux.org"><img src="https://img.shields.io/badge/OS-Linux-e06c75?style=for-the-badge&amp;logoColor=3c3a52&amp;logo=linux&amp;color=161c1c" alt="OS Linux" /></a>
+<a href="https://archlinux.org"><img src="https://img.shields.io/badge/DISTRO-Arch-56b6c2?style=for-the-badge&amp;logo=arch-linux&amp;logoColor=3c3a52&amp;color=161c1c" alt="Distro Arch" /></a>
+<a href="https://dwm.suckless.org"><img src="https://img.shields.io/badge/WM-DWM-005577?style=for-the-badge&amp;logo=dwm&amp;color=161c1c&amp;logoColor=3c3a52" alt="DWM" /></a>
+<a href="https://neovim.io"><img src="https://img.shields.io/badge/IDE-Neovim-98c379?style=for-the-badge&amp;logo=neovim&amp;color=161c1c&amp;logoColor=3c3a52" alt="IDE Neovim" /></a>
 
 <div style="display:flex;">
 <a href="https://www.github.com/CodingWithUnknown"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=CodingWithUnknown&amp;show_icons=true&amp;theme=dark&amp;bg_color=161c1c&amp;hide_border=true&amp;icon_color=3c3a52&amp;title_color=3c3a52&amp;border_radius=16" alt="Unknown Coderz GitHub Stats" /></a>
