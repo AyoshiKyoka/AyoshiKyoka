@@ -15,7 +15,7 @@
 
 <div style="display:flex;">
 <a href="https://www.github.com/CodingWithUnknown"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=CodingWithUnknown&amp;show_icons=true&amp;theme=dark&amp;bg_color=161c1c&amp;hide_border=true&amp;icon_color=3c3a52&amp;title_color=3c3a52&amp;border_radius=16" alt="Unknown Coderz GitHub Stats" /></a>
-<span style="display:inline-block;width:2%"></span>
+<span style="display:inline-block;width:2%;"></span>
 <a href="https://www.github.com/CodingWithUnknown"><img width="48%" src="https://streak-stats.demolab.com/?user=CodingWithUnknown&amp;theme=dark&amp;background=161c1c&amp;hide_border=true&amp;border_radius=16&amp;ring=3c3a52&amp;fire=3c3a52&amp;currStreakLabel=3c3a52" alt="Unknown Coderz GitHub Streak" /></a>
 </div>
 
