@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://www.github.com/CodingWithUnknown"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&duration=4000&color=3c3a52&center=true&width=435&repeat=false&lines=Heyo,+what's+up!+%F0%9F%91%8B%F0%9F%8F%BB;It's+Unknown+Coderz!;Welcome+to+my+profile!" alt="Hello It's Unknown XD" /></a>
+<a href="https://www.github.com/CodingWithUnknown"><img src="https://readme-typing-svg.demolab.com?font=Poppins&amp;pause=1000&amp;duration=4000&amp;color=3c3a52&amp;center=true&amp;vCenter=true&amp;width=435&amp;repeat=false&amp;lines=Heyo,+what's+up!+%F0%9F%91%8B%F0%9F%8F%BB;It's+Unknown+Coderz!;Welcome+to+my+profile!" alt="Hello It's Unknown XD" /></a>
  
 <a href="https://github.com/CodingWithUnknown"><img src="https://github-widgetbox.vercel.app/api/profile?username=CodingWithUnknown&amp;theme=darkmode&amp;data=followers,repositories,stars,commits" alt="Unknown Coderz Profile WidgetBox" /></a>
  
@@ -21,7 +21,7 @@
 
 <a href="https://www.github.com/CodingWithUnknown"><img width="94%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodingWithUnknown&amp;theme=dark&amp;layout=compact&amp;langs_count=10&amp;card_width=750&amp;count_private=true&amp;bg_color=161c1c&amp;title_color=3c3a52&amp;text_color=e4e6eb&amp;hide_border=true&amp;border_radius=16" alt="Unknown Coderz Github activity Graph" /></a>
 
-<a href="https://www.github.com/CodingWithUnknown"><img src="https://readme-typing-svg.demolab.com?font=Poppins&amp;pause=1000&amp;duration=4000&amp;color=3c3a52&amp;center=true&amp;width=435&amp;repeat=false&amp;lines=Discord+Profile+Statistics" alt="Discord Profile Statistics" /></a>
+<a href="https://www.github.com/CodingWithUnknown"><img src="https://readme-typing-svg.demolab.com?font=Poppins&amp;pause=1000&amp;duration=4000&amp;color=3c3a52&amp;center=true&amp;vCenter=true&amp;width=435&amp;repeat=false&amp;lines=Discord+Profile+Statistics" alt="Discord Profile Statistics" /></a>
 
 <a href="https://discord.com/users/770887288464867338"><img width=70% src="https://lanyard.cnrad.dev/api/770887288464867338?showDisplayName=true&amp;hideTimestamp=false&amp;bg=141318&amp;animated=true&amp;borderRadius=15px&amp;theme=dark&amp;hideBadges=false&amp;hideStatus=false&amp;hideActivity=false&amp;hideProfile=false&amp;idleMessage=I+don’t+care+what+people+think+unless+it’s+about+me." alt="Discord Profile Statistics Box" /></a>
 </div>
