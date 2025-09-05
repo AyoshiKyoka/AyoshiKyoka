@@ -1,8 +1,8 @@
 <div align="center">
  <a href="https://www.github.com/AyoshiKyoka"><img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=600&duration=3000&pause=1200&color=3C3A52&center=true&vCenter=true&repeat=false&width=435&lines=Heyo%2C+what's+up!+%F0%9F%91%8B%F0%9F%8F%BB;It's+Ayoshi!;Welcome+to+my+profile!" alt="Hello It's Unknown XD" /></a>
  
- <a href="https://github.com/AyoshiKyoka"><img src="https://github-widgetbox.vercel.app/api/profile?username=AyoshiKyoka&theme=darkmode&data=followers,repositories,stars,commits" alt="Ayoshi Kyoka Profile WidgetBox" /></a>
- <a href="https://www.github.com/AyoshiKyoka"><img width=80% src="https://github-widgetbox.vercel.app/api/skills?languages=html,css,js,ts,bash,linux,powershell&theme=darkmode&includeNames=true" alt="Ayoshi Kyoka Skills WidgetBox" /></a>
+ <a href="https://github.com/AyoshiKyoka"><img width=85% src="https://github-widgetbox.vercel.app/api/profile?username=AyoshiKyoka&theme=darkmode&data=followers,repositories,stars,commits" alt="Ayoshi Kyoka Profile WidgetBox" /></a>
+ <a href="https://www.github.com/AyoshiKyoka"><img width=85% src="https://github-widgetbox.vercel.app/api/skills?languages=html,css,js,ts,bash,linux,powershell&theme=darkmode&includeNames=true" alt="Ayoshi Kyoka Skills WidgetBox" /></a>
  
  <a href="https://www.github.com/AyoshiKyoka"><img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=600&pause=1200&duration=3000&color=3c3a52&center=true&width=435&repeat=false&lines=Statistical+Status" alt="Statistical Status" /></a>
 
